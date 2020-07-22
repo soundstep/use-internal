@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "react": "16.12.0"
+  "peerDependencies": {
+    "react": ">=16.12.0"
   }
 }
